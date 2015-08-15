@@ -1,4 +1,4 @@
-=== LitExtension: Magento to WooCommerce Migration ===
+=== LitExtension - Magento to WooCommerce Migration ===
 Contributors: LitExtension
 Donate link: 
 Tags: migration, wordpress, woocommerce
