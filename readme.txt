@@ -1,4 +1,4 @@
-=== WordPress Migration ===
+=== LitExtension: Magento to WooCommerce Migration ===
 Contributors: LitExtension
 Donate link: 
 Tags: migration, wordpress, woocommerce
@@ -10,9 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Simply the best migration plugin for WooCommerce, 
-help you migrate your products, customers, passwords, orders, categories, reviews,… 
-from other ecommerce to WooCommerce in a few clicks! 
+Magento to WooCommerce Migration Plugin is ultimate Shopping Cart Migration Solution by LitExtension. It allows you to migrate all your products, categories, orders, customers, passwords, SEO URLs and other data from Magento to WooCommerce in 3 simple steps. 
 
 == Installation ==
 
