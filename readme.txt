@@ -16,16 +16,16 @@ This plugin allows you to migrate your products, categories, orders, customers, 
 
 = Main Features =
 
-= * Products: = Product Information, Product Images, Attributes, Product Extra Fields, Product Variants, Tags, Related Products.
-= * Categories: = Categories, Category Images
-= * Customers: = Customer information, Customers Password, Customer Groups
-= * Orders: = Order Information, Order Details 
-= * URLs: = Redirect your old Source Store Products, Categories page URLs to the corresponding pages in your Prestashop, thus it helps to keep SEO ranking you have built up for years.
-= * Custom Fields: = Migrate Custom Fields: Support migrating custom fields of products, categories, customers and orders
-= * Reviews: = Review Information: Reviews of each product made by customer on your store including: Customers Name, Rating, Review, etc.
-= * Taxes: = Name, Value, Value Type (percent or exact value in default currency), Created Date, etc. 
-= * Manufacturers: = Manufacturers Information, Manufacturer Images
-= * Currencies: = List of currency rates
+* Products: Product Information, Product Images, Attributes, Product Extra Fields, Product Variants, Tags, Related Products.
+* Categories: Categories, Category Images
+* Customers: Customer information, Customers Password, Customer Groups
+* Orders: Order Information, Order Details 
+* URLs: Redirect your old Source Store Products, Categories page URLs to the corresponding pages in your WooCommerce, thus it helps to keep SEO ranking you have built up for years.
+* Custom Fields: Migrate Custom Fields: Support migrating custom fields of products, categories, customers and orders
+* Reviews: Review Information: Reviews of each product made by customer on your store including: Customers Name, Rating, Review, etc.
+* Taxes: Name, Value, Value Type (percent or exact value in default currency), Created Date, etc. 
+* Manufacturers: Manufacturers Information, Manufacturer Images
+* Currencies: List of currency rates
  
 = Additional Features =
 * Migrate recent data
